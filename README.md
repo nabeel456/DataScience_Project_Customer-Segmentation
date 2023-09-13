@@ -1,1 +1,3 @@
-# DataScience_Project_Customer-Segmentation
+# Project Title: Customer Segmentation in Marketing Campaigns using PCA and K-Means Clustering
+
+Description: This project uses principal component analysis (PCA) and k-means clustering to segment customers into different groups for targeted marketing campaigns. The data used in this project is a sample of customer data from a retail store. The PCA algorithm is used to reduce the dimensionality of the data, and the k-means clustering algorithm is used to cluster the data into k groups. The results of the clustering are then used to identify different customer segments and develop targeted marketing strategies for each segment.
